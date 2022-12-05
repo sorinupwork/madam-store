@@ -20,19 +20,19 @@ function MyApp({ Component, pageProps }) {
           <link
             rel="apple-touch-icon"
             sizes="180x180"
-            href="./images/apple-touch-icon.png"
+            href="https://i.ibb.co/Lry3hMk/download.png"
           />
           <link
             rel="icon"
             type="image/png"
             sizes="32x32"
-            href="./images/favicon-32x32.png"
+            href="https://i.ibb.co/Lry3hMk/download.png"
           />
           <link
             rel="icon"
             type="image/png"
             sizes="16x16"
-            href="./images/favicon-16x16.png"
+            href="https://i.ibb.co/Lry3hMk/download.png"
           />
 
           <meta property="og:type" content="website" />
