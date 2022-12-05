@@ -25,7 +25,7 @@ function MyApp({ Component, pageProps }) {
           />
           <meta
             property="og:image"
-            content="https://i.ibb.co/tXHkQxf/madam-logo2.png"
+            content="https://i.ibb.co/Lry3hMk/download.png"
           />
 
           <meta property="twitter:card" content="summary_large_image" />
@@ -40,7 +40,7 @@ function MyApp({ Component, pageProps }) {
           />
           <meta
             property="twitter:image"
-            content="https://i.ibb.co/tXHkQxf/madam-logo2.png"
+            content="https://i.ibb.co/Lry3hMk/download.png"
           />
         </Head>
         <Toaster />
